@@ -1,0 +1,12 @@
+# Python leftovers
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Kept on the laptop, not published:
+# other people's projects, each under its own license
+reference/
+# team documents (the slide deck has teammates' contact details)
+docs/
+# personal planning notes
+notes/
