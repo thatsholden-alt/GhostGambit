@@ -30,9 +30,3 @@ python -m pytest tests
 | `motion/` | CoreXY math, routes between squares, the GRBL motor driver |
 | `sensing/` | Reading the square sensors and working out the human's move |
 | `tests/` | Automated checks |
-
-## How this code was made
-
-The first code commit is a starting point drafted with help from Claude, an AI
-assistant, in September and October 2026. Every later commit shows the team's
-own changes.
